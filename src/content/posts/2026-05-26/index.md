@@ -6,7 +6,7 @@ image: "./cover.jpg"
 description: 《雨中 Neo 舰群禁言总督事件》网站内容出现重大方面问题，自 5 月 28 日起进行下架处理。特此公告。
 tags: [公告, 日志]
 category: 公告
-draft: true
+draft: false
 ---
 # 作者遗憾宣布专栏下架
 很抱歉告知各位看到这篇下架公告。[《雨中 Neo 舰群禁言总督事件》](https://stridenotstrike.netlify.app/gallery/uchuu-neo-event/)记述性专栏目前已进入整改状态，但不是彻底删除。未来一日大体内容修改并通过内部审核后，将重新推送此文，大家无需担心。
