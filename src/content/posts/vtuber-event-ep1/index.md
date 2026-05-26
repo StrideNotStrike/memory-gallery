@@ -1,5 +1,5 @@
 ---
-title: 雨中 Neo 舰群禁言开盒总督事件
+title: 雨中 Neo 舰群禁言总督事件
 published: 2026-04-22
 pinned: false
 image: "./cover.png"
@@ -11,7 +11,11 @@ draft: false
 一场因群管理带头引发的冲突事件。近 20000 元的总督打赏，因 1 分钟内被群管理禁言，变得一文不值。
 
 # 前言
-为便于诸位了解此事件的大体情况，本人参考多方资料，记载此事件。然而内容复杂度远超预期，不便在此逐一写出，遂以网页方式呈现正文。详情可通过[此处进入 ↗](https://stridenotstrike.github.io/UchuuNeo-event-archive/)。  
+4 月 8 日，雨中 Neo 舰群禁言总督事件爆发；4 月 11 日，作者开始深入了解此事件，并开始事件记录计划。经过一个多月的修正、补充，初现全文雏形。
+为便于诸位了解此事件的大体情况，本人参考多方资料，记载此事件。然而内容复杂度远超预期，不便在此逐一写出，遂以网页方式呈现正文。  
+
+5 月 28 日，网站因内容错误百出，作出下架处理。但遗址仍然保留，作为存在过的痕迹，可通过[此处进入 ↗](https://stridenotstrike.github.io/UchuuNeo-event-archive/)。  
+欲知下架原因，请前往[《雨中 Neo 舰群禁言总督事件》下架处理公告](https://stridenotstrike.netlify.app/posts/2026-05-26/)了解详情。  
 关于此事件的相关图片可前往[「雨中 Neo 总督禁言事件」相册](https://stridenotstrike.netlify.app/gallery/uchuu-neo-event/)查看。
 
 # 免责声明
@@ -26,7 +30,9 @@ draft: false
 同样欢迎补充事实信息、指出错误或提供更多资料。
 - Email: [desmagmeta@163.com](mailto:desmagmeta@163.com)
 - 哔哩哔哩：[飘云易旅](https://space.bilibili.com/515021432)
+- QQ 群号：1097191627
 
 # 致谢
 - 感谢 [清雨tpor.wtf](https://xn--tpor-kp8i193r.wtf/) 作者对网站的开源；
-- 感谢各界网友为此事件提供相关图片、证据等。
+- 感谢各界网友为此事件提供相关图片、证据等；
+- 各位引用过此专栏及其相关网站的编者、读者。
