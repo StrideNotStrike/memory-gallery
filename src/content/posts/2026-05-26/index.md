@@ -1,7 +1,7 @@
 ---
 title: 《雨中 Neo 舰群禁言总督事件》下架处理公告
 published: 2026-05-26
-pinned: true
+pinned: false
 image: "./cover.jpg"
 description: 《雨中 Neo 舰群禁言总督事件》网站内容出现重大方面问题，自 5 月 28 日起进行下架处理。特此公告。
 tags: [公告, 日志]
