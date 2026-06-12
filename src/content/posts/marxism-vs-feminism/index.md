@@ -1,10 +1,10 @@
 ---
 title: 【转载】杭州师范大学《让马克思主义告诉你为什么女拳打不起来》文字稿
 published: 2026-06-12
-pinned: true
+pinned: false
 image: "./cover.jpg"
 description: 综合各方来源，尝试整理并复原杭州师范大学《让马克思主义告诉你为什么女拳打不起来》原文，同时借此留档。
-tags: [档案, 政治, 性别, 女拳, 马克思主义, 杭师大]
+tags: [档案, 政治, 性别, 女拳, 马克思主义, 杭州师范大学]
 category: 档案
 draft: false
 ---
@@ -13,7 +13,8 @@ draft: false
 > 2. 此文字稿综合各家引用此文章的视频、专栏等对文章框架顺序、内容进行尝试复原，无法保证与原文 100% 一致；
 > 3. 考虑 Markdown 易读性、美观性，此处移除与原文弱相关的配图，仅保留原文中与内容高度相关的图片；
 > 4. 文章版权归原作者所有，为保护作者个人信息，此处暂定署名为杭州师范大学某学生；
-> 5. 原文中所有标红且起强调作用的字，在此处正文均以加粗形式呈现。
+> 5. 原文中所有标红且起强调作用的字，在此处正文均以加粗形式呈现;
+> 6. 原文（课件）图片已归档，详情见[「杭州师范大学马原演讲」相册](https://stridenotstrike.netlify.app/gallery/marxism-vs-feminism/)。
 
 以下为原文转化成的文字稿，仅供参考，具体内容请以原始文件为准。
 
@@ -100,7 +101,8 @@ draft: false
 # 第二部分：典型案例分析
 **以小红书、武汉某高校为代表的女拳言论**  
 
-![凤凰网财经相关推文＆武汉某高校教师授课图](https://raw.githubusercontent.com/StrideNotStrike/memory-gallery/main/src/content/posts/marxism-vs-feminism/ref-1.jpg)  
+<!-- ![凤凰网财经相关推文＆武汉某高校教师授课图](./ref-1.jpg)  -->
+![凤凰网财经相关推文＆武汉某高校教师授课图](https://stridenotstrike.netlify.app/gallery/marxism-vs-feminism/ref-1.jpg)
 
 > [!NOTE] 图片文字概述
 > <details>
@@ -127,12 +129,18 @@ draft: false
 
 提出要从根本上改变父系社会，甚至有想要回到母系社会的言论出现。认为女性可以完成男性的所有工作，「男性没有存在的必要」。
 
-尤其让人不理解的是，大部分「女拳」主义者对欧美、非洲男性抱有特别的好感，认为欧美男性「绅士有风度」`（《三联生活周刊》）`，认为非洲男性「有男性的气质」，更有甚者认为除了中国男性以外的所有男性都是理想的可托付的优秀男性。
+尤其让人不理解的是，大部分「女拳」主义者对欧美、非洲男性抱有特别的好感，认为欧美男性「绅士有风度」`(《三联生活周刊》)`，认为非洲男性「有男性的气质」，更有甚者认为除了中国男性以外的所有男性都是理想的可托付的优秀男性。
 
 ## 女性社会地位的真实样貌
+<!--
 > [!NOTE] 参考来源
-> ![本部分网传截图一（来源：哔哩哔哩＠世界记忆冠军大卫哥）](https://raw.githubusercontent.com/StrideNotStrike/memory-gallery/main/src/content/posts/marxism-vs-feminism/slide-3-1.png)  
-> ![本部分网传截图二（来源于多位网友）](https://raw.githubusercontent.com/StrideNotStrike/memory-gallery/main/src/content/posts/marxism-vs-feminism/slide-3-2.jpg)  
+> ![本部分网传截图一（来源：哔哩哔哩＠世界记忆冠军大卫哥）](./slide-3-1.png)  
+> ![本部分网传截图二（来源于多位网友）](./slide-3-2.jpg)  
+-->
+
+> [!NOTE] 参考来源
+> ![本部分网传截图一（来源：哔哩哔哩＠世界记忆冠军大卫哥）](https://stridenotstrike.netlify.app/gallery/marxism-vs-feminism/slide-1.png)  
+> ![本部分网传截图二（来源于多位网友）](./slide-3-2.jpg)  
 
 直接结论：中国女性的社会地位处于历史以来的**世界最高位**  
 
@@ -143,7 +151,8 @@ draft: false
 
 ### 司法偏袒
 女性犯罪相较于男性犯罪判决更轻，例如同样为盗窃罪，男性普遍判罚有期徒刑，女性普遍以说教为主。  
-![胡昌明《被告人身份差异对量刑的影响》节选（来源：知乎）](https://raw.githubusercontent.com/StrideNotStrike/memory-gallery/main/src/content/posts/marxism-vs-feminism/ref-2.jpg)  
+<!--![胡昌明《被告人身份差异对量刑的影响》节选（来源：知乎）](./ref-2.jpg)  -->
+![胡昌明《被告人身份差异对量刑的影响》节选（来源：知乎）](https://stridenotstrike.netlify.app/gallery/marxism-vs-feminism/ref-2.jpg)  
 
 > [!IMPORTANT] 原文注解
 > 女性刑罚程度显著低于男性，体现出法官对女性犯罪人较宽宥，对男性则较严厉的特征。
