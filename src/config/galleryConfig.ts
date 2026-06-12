@@ -20,6 +20,13 @@ export const galleryConfig: GalleryConfig = {
 			date: "2026-04-19",
 			tags: ["雨中 Neo", "芝士电子狗"],
 		},
+		{
+			id: "marxism-vs-feminism",
+			name: "杭州师范大学马原演讲",
+			description: "杭州师范大学马克思主义演讲事件原文参考 + 相关图片",
+			date: "2026-06-12",
+			tags: ["政治","性别","女拳","马克思主义","杭州师范大学"],
+		},
 	],
 
 	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240

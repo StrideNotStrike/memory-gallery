@@ -21,7 +21,6 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"Vtuber",
 		"Astro",
 		"ACGN",
 		"博客",
